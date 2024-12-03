@@ -1,4 +1,4 @@
-## Netflix clone
+## Netflix UI
 
 ```bash
 npm run dev
